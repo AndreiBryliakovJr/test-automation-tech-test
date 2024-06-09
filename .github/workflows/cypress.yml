@@ -1,4 +1,6 @@
-name: Cypress Tests
+              - name: Checkout
+                uses: actions/checkout@v4.1.6
+            
 on: [push]
 jobs:
   cypress-run:
