@@ -1,0 +1,4 @@
+root: C:\Users\andre\litres-testing\test-automation-tech-test 
+path: C:\Program Files\nodejs 
+arch: 64 
+proxy: none
